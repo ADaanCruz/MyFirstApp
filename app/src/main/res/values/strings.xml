@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="you_are_welcome">¡Hola! Bienvenido.</string>
+    <string name="nombre">Nombre</string>
+    <string name="edad">Edad</string>
+    <string name="ingresa_tu_nombre">Ingresa tu nombre</string>
+    <string name="ingresa_tu_edad">Ingresa tu edad</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="informacion_personal">Información personal</string>
+    <string name="borrar">Borrar</string>
+    <string name="salir">Salir</string>
+    <string name="ingresa_tu_correo">Ingresa tu correo</string>
+    <string name="correo">Correo</string>
+    <string name="regresar">Regresar</string>
+    <string name="informacion_basica">Información básica</string>
+</resources>
